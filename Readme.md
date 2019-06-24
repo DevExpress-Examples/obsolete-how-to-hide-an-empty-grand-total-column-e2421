@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE - How to hide an empty Grand Total column
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2421)**
+<!-- run online end -->
 
 
 <p>This example is now obsolete. It is better to use the approach described in the following example instead:<br />
